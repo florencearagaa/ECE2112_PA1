@@ -13,6 +13,7 @@ At the end of this laboratory activity, the student should be able to:
 Create a function named rotate word() that accepts a non-empty string. Move the first character
 of the string to the end while keeping all remaining characters in their original order. Preserve the
 capitalization of every character.
+
 Requirement: Use string indexing or slicing to construct the returned string.
 
 ### B. USERNAME BUILDER PROBLEM
