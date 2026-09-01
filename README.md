@@ -23,15 +23,17 @@ function must:
 2. remove all spaces from the first name;
 3. remove all spaces from the last name; and
 4. join the processed first and last names using one period (.)
+
 Requirement: Use basic string methods and string concatenation. Return the completed username.
 
 ### C. BOOKEND SWAP PROBLEM
 Create a function named swap bookends() that accepts a list containing at least two elements. Unpack
 the list into three variables:
-• first – the first element;
-• middle – a list containing everything between the first and last elements; and
-• last – the last element.
+1. first – the first element;
+2. middle – a list containing everything between the first and last elements; and
+3. last – the last element.
 Using these variables, return a new list in which the first and last elements have exchanged positions.
 The elements in middle must remain in their original order. Do not modify the input list.
+
 Requirement: Use extended sequence unpacking in the following form:
 first, *middle, last = items
